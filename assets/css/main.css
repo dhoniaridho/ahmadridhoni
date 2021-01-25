@@ -243,5 +243,6 @@ button{
 
 
 button:hover, a:hover {
+  color:#33F0FF;
   opacity: 0.9;
 }
